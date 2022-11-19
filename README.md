@@ -1,1 +1,2 @@
-Use Google colab to run this file.
+Use Google Colab to run this file.
+Notebook Settings: GPU or TPU
